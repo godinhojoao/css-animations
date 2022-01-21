@@ -23,4 +23,3 @@
 - `transform: translate(x, y);`: Irá transicionar o elemento selecionado nos eixos 2d.
 - `transform: rotate(45deg);`: Irá rodar em 45 graus a direita o elemento selecionado.
 - `transform: scale(1.5);`: Irá aumentar a escala "tamanho geral" do elemento selecionado.
-- `transform: `: Irá aumentar a escala "tamanho geral" do elemento selecionado.
